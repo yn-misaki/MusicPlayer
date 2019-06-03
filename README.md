@@ -1,5 +1,6 @@
-# musicPlayer
-Music Player was my first software.
+# Music Player
+Music Player was my first software in 2006.
+
 ## Installing Tcl/Tk
 
 You may already have Tcl/Tk installed on your computer. You can check by typing:
